@@ -1,18 +1,23 @@
 * {
- margin: 0;
- padding: 0;
- font-family: Arial, Helvetica, sans-serif;  
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     background-color: #f0ebf8;
 }
 
-h1, h2, h3 , h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     color: #333;
 }
 
-p, label {
+p,
+label {
     color: #444;
 }
 
@@ -33,7 +38,7 @@ textarea {
 textarea {
     padding: 10px 5px;
 }
- 
+
 /* page header */
 
 .header {
@@ -85,7 +90,7 @@ textarea {
 }
 
 .required-field {
-    color:  #d80835;
+    color: #d80835;
 }
 
 .box-input {
